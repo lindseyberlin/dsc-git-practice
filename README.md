@@ -1,4 +1,6 @@
 
+# LOOK LINDSEY MADE CHANGES
+
 # Git Practice
 
 ## Introduction
